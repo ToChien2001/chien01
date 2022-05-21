@@ -1,3 +1,3 @@
-# QL-Diem
+# QUANLYDIEM
 Dùng công nghệ JSP/SERVELET 
 Dùng MYSQL
